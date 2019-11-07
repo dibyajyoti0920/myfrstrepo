@@ -20,7 +20,7 @@
 <distributionManagement>
    <repository>
       <id>nexus</id>
-      <url>http://35.226.251.134:8081/repository/maven-releases/</url>
+      <url>http://35.221.46.2:8081/repository/maven-releases/</url>
    </repository>
 </distributionManagement>
 
@@ -47,7 +47,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-                <sonar.host.url> http://35.238.180.26:9000 </sonar.host.url>
+                <sonar.host.url> http://34.66.73.142:9000 </sonar.host.url>
             </properties>
         </profile>
      </profiles>
